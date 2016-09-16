@@ -1,1 +1,5 @@
 # awesome-islam
+
+## Holy Quran
+- [zolal-quran.ir](https://github.com/sobhe/zolal)
+- [quran.com](https://github.com/quran/quran.com-frontend)
